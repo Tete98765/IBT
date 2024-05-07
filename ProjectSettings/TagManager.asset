@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Door
+  - Corner1
+  - Corner2
+  - Wall
+  - Room
+  - cursor
+  - action_button
+  - action_text
+  - creak_open
+  - creak_close
+  - door_prefab
+  - Flashlight
+  - point_gen
+  - Content
+  - item
+  - table
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Target
+  - Obstruction
+  - Walls and objects
+  - Doors
+  - walls_prefab
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
